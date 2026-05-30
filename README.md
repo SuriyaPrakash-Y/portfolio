@@ -31,4 +31,4 @@ This portfolio showcases my projects, architecture diagrams, and hands-on experi
 ## 📫 Contact
 - **Email:** suryaprakash56777@gmail.com  
 - **LinkedIn:** 
-- **GitHub Pages Portfolio:** 
+- **GitHub Pages Portfolio:** https://SuriyaPrakash-Y.github.io/portfolio
